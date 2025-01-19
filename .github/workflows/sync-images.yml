@@ -1,0 +1,41 @@
+name: Sync Images to Server
+
+on:
+  schedule:
+    # Runs the workflow every day at midnight (adjust cron as needed)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  sync-images:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Install PHP
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 8.0
+
+      # Run the PHP script
+      - name: Run image sync script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          php sync_images.php
+
+      # Deploy files to your server (via scp or rsync)
+      - name: Deploy images
+        env:
+          SERVER_USER: ${{ secrets.SERVER_USER }}
+          SERVER_IP: ${{ secrets.SERVER_IP }}
+          SERVER_PATH: ${{ secrets.SERVER_PATH }}
+          PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+        run: |
+          echo "${PRIVATE_KEY}" > private_key.pem
+          chmod 600 private_key.pem
+          rsync -e "ssh -i private_key.pem" -avz ./img/ ${SERVER_USER}@${SERVER_IP}:${SERVER_PATH}/img/
