@@ -1,7 +1,7 @@
-## Project 1
-name: Project One
-info: This is a description of the first project.
-link: /project_one
+## Minecraft Celestial
+name: Minecraft Celestial
+info: Describe the project
+link: /celestial
 
 ## Project 2
 name: Project Two
