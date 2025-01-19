@@ -17,6 +17,9 @@ _Yeah_, seams to ~~work~~ all without any **Problems** :)
 4. ordered
 5. list!
 
+
+Wow! Even images work! ![The logo._.](https://visionprojects.net/img/icon1080px.png "Vision Projects Logo")
+
 ## Subtitle
 
 <?php echo "Testing php!"; ?>
