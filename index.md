@@ -1,8 +1,14 @@
 # Welcome to Vision
 
+## Projects
 
-{calendar}
+{projects}  
 
 <button class="primary">
   <a href="projects">To the projects!</a>
-</button>
+</button>  
+
+## Calendar
+
+{calendar}  
+
