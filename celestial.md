@@ -1,5 +1,8 @@
 # Minecraft Celestial
 
+## About
+A short description
+
 ## Info
 Some info, maybe images (upload to /img if required)
 
