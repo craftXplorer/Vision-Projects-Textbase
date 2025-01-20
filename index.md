@@ -1,7 +1,7 @@
 # Welcome to Vision
 
 
-<?php include "calendar_data.php"; ?>
+{calendar}
 
 <button class="primary">
   <a href="projects">To the projects!</a>
