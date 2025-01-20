@@ -8,7 +8,14 @@
   <a href="projects">To the projects!</a>
 </button>  
 
+---
+
 ## Calendar
 
 {calendar}  
 
+---
+
+## What users say  
+
+**- Coming soon -  **
