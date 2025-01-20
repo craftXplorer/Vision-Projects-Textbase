@@ -1,11 +1,16 @@
-## Project 1
-name: Project Name 1
-info: Project description 1
-link: http://example.com
-img: https://www.visionprojects.net/img/checkmark.png
+name: Minecraft Celestial  
+info: Describe the project  
+link: /celestial  
+img: img/minecraft_celestial_logo.png  
 
-## Project 2
-name: Project Name 2
-info: Project description 2
-link: http://example.com
-img: https://www.visionprojects.net/img/icon1280px.png
+## Project 2  
+name: Project Two  
+info: This is a description of the second project.  
+link: /project_two  
+img/icon1280px.png  
+
+## Project 3  
+name: Project Three  
+info: This is a description of the third project.  
+link: /project_three  
+img/icon1280px.png  
