@@ -1,7 +1,7 @@
 ## Project 1
-name: Project Name 1
+name: Minecraft Celestial
 info: Project description 1
-link: http://example.com
+link: /celestial
 img: https://www.visionprojects.net/img/minecraft_celestial_logo.png
 
 ## Project 2
