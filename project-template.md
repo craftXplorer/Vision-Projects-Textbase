@@ -1,12 +1,17 @@
 # Project Name
 
+## About
+A short description
+
+---
+
 ## Info
 Some info, maybe images (upload to /img if required)
 
 ---
 
 ## State
-Is it ended, running, paused, ...
+Is it ended, running, in production, ...
 
 ---
 
