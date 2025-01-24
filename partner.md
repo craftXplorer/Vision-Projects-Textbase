@@ -5,7 +5,7 @@ So in other words, the poeple responsible for you knowing about us.
 
 Check out their socials and honor their efforts!  
 
-- Fabi - https://www.youtube.com/@fabiyt_
+- **Fabi** - https://www.youtube.com/@fabiyt_
 
 ---
 
