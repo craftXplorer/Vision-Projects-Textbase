@@ -1,7 +1,9 @@
 # Minecraft Celestial
 
 ## About
-A short description
+Minecraft Celestial is a survival project in which players build a space station together or alone and explore the vastness of the Minecraft universe. 
+The project combines classic survival gameplay with innovative challenges in space and offers the opportunity to act creatively and strategically in a unique environment.
+This will be done with a unique modpack that is specifically tailored to Celestial.
 
 ---
 
