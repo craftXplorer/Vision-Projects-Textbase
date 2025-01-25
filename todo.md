@@ -5,4 +5,8 @@
 - [Partner](partner.md) - Add partners if applicable
 - [Projects](projects.md) - Update to actual projects
 - [About Us](about-us.md) - Maybe images
-- All other projects (use [project template](project-template.md)
+- All other projects (use [project template](project-template.md))
+  - Minecraft Insanity
+  - FactionFight
+  - Portals
+  - Gameshow
