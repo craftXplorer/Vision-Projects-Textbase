@@ -6,13 +6,13 @@ img: https://www.visionprojects.net/img/minecraft_celestial_logo.png
 
 ## Minecraft Insanity
 name: Minecraft Insanity
-info: Project description 2
+info: Modded SMP focussed on create mod
 link: http://example.com
-img: https://www.visionprojects.net/img/icon1280px.png
+img: https://www.visionprojects.net/img/Minecraft-Insanity.png
 
 
 ## FactionFight
 name: FactionFight
-info: Project description 3
+info: Varo-like with teams and power ups
 link: http://example.com
-img: https://www.visionprojects.net/img/icon1280px.png
+img: https://www.visionprojects.net/img/factionfight.png
