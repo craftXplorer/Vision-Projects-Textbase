@@ -7,6 +7,7 @@ See this [guide](https://www.markdownguide.org/basic-syntax/) on how to style th
 Placeholders: 
 - {projects}
 - {calendar}
+- {trustpilot}
 
 Project pages should be like the [template](project-template.md). Duplicate and fill out everything for new projects. As the file name, use the project's name. When the page is ready for publishing, make an entry for it in [projects.md](projects.md)
 
