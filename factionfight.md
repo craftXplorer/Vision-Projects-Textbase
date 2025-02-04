@@ -2,10 +2,11 @@
 
 ## About
 
-*FactionFight* was a project in 2024. It was inspirated on the German PvP project "Varo", but w7th some changes:
+*FactionFight* was a project in 2024. It was inspirated on the German PvP project "Varo", but with some changes:
 
 1. Orginaly the were 2 players in one team. In our version there were 4
-2. We added some special items to make it more interesting 
+2. We added some special items to make it more interesting
+
 ---
 
 ## Info
