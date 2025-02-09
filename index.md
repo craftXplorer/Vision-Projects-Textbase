@@ -2,8 +2,6 @@
 
 ## Projects
 
-Hello ![google" onerror="alert(1)](http://google.com)
-
 {projects}  
 
 <button class="primary">
