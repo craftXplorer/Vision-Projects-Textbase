@@ -11,7 +11,7 @@ Some info, maybe images (upload to /img if required)
 ---
 
 ## State
-Ended
+Ended on 6.2.2024
 
 ---
 
