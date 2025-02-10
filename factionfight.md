@@ -14,7 +14,7 @@
 ## Info
 
 At the moment, we don't have plans for a second run.
-Maybe there is a comeback in the future. If you're interested in taking part at this, join our [discord server](https://discord.gg/tjcS6g7hn6) and keep a watch on the announcements channel.
+Maybe there is a comeback in the future. If you're interested in taking part at this, join our [discord server]([https://discord.gg/RpdBzM6V]) and keep a watch on the announcements channel.
 
 ---
 
