@@ -4,7 +4,7 @@
 
 At Vision Projects, we’re passionate about creating and exploring new possibilities within Minecraft. Our focus is on developing unique and innovative projects that showcase our creativity and technical expertise.  
 
-We’re a small, dedicated team of young enthusiasts from Germany and Austria who combine technical know-how, imagination, and a shared love for Minecraft. Despite our youth, we’ve honed our skills to bring our ideas to life and push the boundaries of what’s possible in the Minecraft universe.  
+We’re a small, dedicated team of young enthusiasts from Germany who combine technical know-how, imagination, and a shared love for Minecraft. Despite our youth, we’ve honed our skills to bring our ideas to life and push the boundaries of what’s possible in the Minecraft universe.  
 
 ---
 
@@ -46,5 +46,4 @@ Vision Projects is driven by a passionate and skilled team of young individuals:
 
 - **Fabian**: Organizer and Lead Planner  
 - **Lennart**: Developer and Technical Expert  
-- **Leo**: Creative Planner and Brainstormer  
 - **Jonas**: Financial Expert and Resource Manager  
