@@ -1,49 +1,49 @@
-# About Us
+# Über uns
 
-**Welcome to Vision Projects**  
+**Willkommen bei Vision Projects** 
 
-At Vision Projects, we’re passionate about creating and exploring new possibilities within Minecraft. Our focus is on developing unique and innovative projects that showcase our creativity and technical expertise.  
+Wir bei Vision Projects sind leidenschaftliche Entwickler und Entdecker neuer Möglichkeiten mit Minecraft. Unser Fokus liegt auf der Entwicklung einzigartiger und innovativer Projekte, in denen wir unsere Kreativität und unser technisches Know-how unter Beweis stellen.  
 
-We’re a small, dedicated team of young enthusiasts from Germany who combine technical know-how, imagination, and a shared love for Minecraft. Despite our youth, we’ve honed our skills to bring our ideas to life and push the boundaries of what’s possible in the Minecraft universe.  
-
----
-
-## What We Do
-
-At Vision Projects, we work on creating our own Minecraft experiences, ranging from custom maps and stories to technically challenging builds and innovative game modes. Our projects are designed to inspire, entertain, and demonstrate what can be achieved within the Minecraft platform.  
-
-Some key aspects of our work include:  
-- **Creative Design**: Developing immersive maps, stories, and challenges.  
-- **Technical Innovation**: Leveraging mods, plugins, and server technology to create unique gameplay.  
-- **Community Engagement**: Sharing our projects with the Minecraft community and inspiring others.  
+Wir sind ein kleines, engagiertes Team von jungen Spielern und Programmierern aus Deutschland, die technisches Know-How, Vorstellungskraft und die gemeinsame Liebe zu Minecraft vereinen. Trotz unseres jungen Alters haben wir unsere Fähigkeiten stetig weiterentwickelt, um unsere Ideen zum Leben zu erwecken und die Grenzen dessen, was im Minecraft-Universum möglich ist, zu erweitern.  
 
 ---
 
-## Why Vision Projects?  
+## Was wir tun
 
-Here’s what sets us apart:  
+Bei Vision Projects arbeiten wir daran, unsere eigenen Minecraft-Erfahrungen zu erschaffen, die von individuellen Maps und Geschichten bis hin zu technisch anspruchsvollen Builds und innovativen Spielmodi reichen. Unsere Projekte sollen inspirieren, unterhalten und zeigen, was man mit der Minecraft-Plattform alles erreichen kann.  
 
-1. **Experience Matters**: Minecraft is a complex platform, and we bring years of experience in designing, building, and implementing innovative projects.  
-2. **Youthful Creativity**: Our young team is in tune with the modern Minecraft community, ensuring our projects remain fresh and engaging.  
-3. **Collaborative Spirit**: We value teamwork and are constantly brainstorming new ideas together to bring our shared vision to life.  
-4. **Technical Expertise**: From advanced command block mechanics to complex server setups, we’re always pushing the limits of what’s possible in Minecraft.  
-
----
-
-## Our Mission and Vision  
-
-At Vision Projects, we believe in the power of creativity and collaboration. Minecraft isn’t just a game to us—it’s a platform for storytelling, exploration, and connection.  
-
-Our mission is to create groundbreaking projects that inspire the Minecraft community while continually challenging ourselves to grow and improve.  
-
-We envision a future where our work becomes a source of inspiration, encouraging others to dream big and create their own Minecraft adventures.  
+Einige der wichtigsten Aspekte unserer Arbeit sind:  
+- **Kreatives Design**: Entwicklung fesselnder Maps, Geschichten und Challenges.  
+- **Technische Innovation**: Einsatz von Mods, Plugins und Servertechnologie, um ein einzigartiges Gameplay zu schaffen.  
+- **Engagement für die Gemeinschaft**: Wir teilen unsere Werke mit der Minecraft-Community und inspirieren andere.  
 
 ---
 
-## Meet the Team  
+## Warum Vision Projects?  
 
-Vision Projects is driven by a passionate and skilled team of young individuals:  
+Das macht uns aus: 
 
-- **Fabian**: Organizer and Lead Planner  
-- **Lennart**: Developer and Technical Expert  
-- **Jonas**: Financial Expert and Resource Manager  
+1. **Erfahrung ist wichtig**: Minecraft ist eine komplexe Plattform, und wir bringen jahrelange Erfahrung im Planen, Moderieren und Umsetzen erfolgreicher Projekte mit.  
+2. **Jugendliche Kreativität**: Unser junges Team ist mit der modernen Minecraft-Community verbunden und sorgt dafür, dass unsere Kreationen frisch und ansprechend bleiben.  
+3. **Kollaborativer Geist**: Wir schätzen Teamarbeit und entwickeln ständig neue Ideen, um unsere gemeinsame Vision zum Leben zu erwecken.  
+4. **Technische Kompetenz**: Von fortgeschrittenen Commandblock-Techniken bis hin zu komplexen Server-Setups - wir erweitern ständig die Grenzen dessen, was in Minecraft möglich ist.  
+
+---
+
+## Unsere Mission und Vision 
+
+Wir von Vision Projects glauben an die Kraft der Kreativität und Zusammenarbeit. Für uns ist Minecraft nicht nur ein Spiel - es ist eine Plattform für Geschichten, Erkundungen und Verbindungen. 
+
+Unsere Mission ist es, bahnbrechende Projekte zu entwickeln, die die Minecraft-Community inspirieren und uns gleichzeitig herausfordern, zu wachsen und uns zu verbessern.  
+
+Wir stellen uns eine Zukunft vor, in der unsere Arbeit andere inspiriert und dazu ermutigt, große Träume zu haben und ihre eigenen Minecraft-Abenteuer zu erschaffen.  
+
+---
+
+## Lerne das Team kennen 
+
+Vision Projects wird von einem leidenschaftlichen und kompetenten Team junger Menschen geleitet: 
+
+- **Fabian**: Organisator und leitender Planer 
+- **Lennart**: Entwickler und technischer Experte 
+- **Jonas**: Supporter und Social Media Manager
