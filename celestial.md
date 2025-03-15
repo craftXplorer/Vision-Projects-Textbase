@@ -1,21 +1,22 @@
 # Minecraft Celestial
 
 ## About
-Minecraft Celestial is a survival project in which players build a space station together or alone and explore the vastness of the Minecraft universe. 
-The project combines classic survival gameplay with innovative challenges in space and offers the opportunity to act creatively and strategically in a unique environment.
-This will be done with a unique modpack that is specifically tailored to Celestial.
+Minecraft Celestial ist ein Survival-Projekt, in dem Spieler gemeinsam oder alleine eine Raumstation bauen und die Weiten des Minecraft-Universums erkunden. 
+Das Projekt kombiniert klassisches Survival-Gameplay mit innovativen Herausforderungen im Weltraum und bietet die Möglichkeit, kreativ und strategisch in einer einzigartigen Umgebung zu agieren.
+Dies wird durch ein einzigartiges Modpack ermöglicht, das speziell für Celestial entwickelt wurde.
 
 ---
 
 ## Info
-Some info, maybe images (upload to /img if required)
+- Discord Server: [https://discord.gg/pVurZ6ZHKq](https://discord.gg/pVurZ6ZHKq)
+- IP: celestial.visionprojects.net
 
 ---
 
-## State
-In production
+## Status
+In den Vorbereitungen
 
 ---
 
-## Participate
-Potential explanations and links on how to join the project
+## Teilnehmen
+<button class="primary"><a href="participate?project=Minecraft+Celestial">Tritt einem Projekt bei!</a></button>
