@@ -1,6 +1,4 @@
-# FactionFight
-
-![FactionFight Logo](img/factionfight.png)
+# FactionFight <img src="img/factionfight.png" alt="FactionFight Logo" style="width:5rem">
 
 ## About
 
@@ -9,19 +7,28 @@
 1. Orginaly the were **2 players** in one team. In our version there were 4
 2. We added some special items to make it more interesting. These were for example a trident summoning lightnings or a potion to elevate.
 
+
+*FactionFight* war ein Projekt im Frühjahr 2024. Es war inspiriert von dem PvP-Projekt "Varo", aber mit einigen Änderungen:
+
+1. Ursprünglich waren es **2 Spieler** in einem Team. In unserer Version waren es 4
+2. Wir haben einige spezial Items hinzugefügt, um das Spiel interessanter zu machen. Das waren z.B. ein Dreizack, der Blitze beschwört oder eine Potion zum Schweben
+
+Das Projekt wurde leider vorzeitig beendet, da zu viele Spieler nicht ihrer Verpflichtung des Aufnehmens nachgegangen sind.
+
 ---
 
 ## Info
 
-At the moment, we don't have plans for a second run.
-Maybe there is a comeback in the future. If you're interested in taking part at this, join our [discord server]([https://discord.gg/RpdBzM6V]) and keep a watch on the announcements channel.
+Derzeit haben wir keine Pläne für einen zweiten Durchgang
+
+Möglicherweise gibt es in der Zukunft ein Comeback. Wenn du darin interessiert bist, tritt unserem [Discord Server](https://discord.gg/tjcS6g7hn6) bei und verfolge den Ankündigungskanal.
 
 ---
 
-## State
-Ended
+## Status
+Beendet
 
 ---
 
-## Participate
-Not available at the moment
+## Teilnehmen
+Zurzeit nicht verfügbar
