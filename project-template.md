@@ -1,19 +1,19 @@
-# Project Name
+# Projektname
 
 ## About
-A short description
+Beschreibung
 
 ---
 
 ## Info
-Some info, maybe images (upload to /img if required)
+Infos und Links
 
 ---
 
-## State
-Is it ended, running, in production, ...
+## Status
+Beendet, Laufend, In den Vorbereitungen, ...
 
 ---
 
 ## Participate
-Potential explanations and links on how to join the project
+Links zum Teilnehmen, ggf. eine Anleitung
