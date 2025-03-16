@@ -1,22 +1,22 @@
-# Welcome to Vision
+# Willkommen bei Vision
 
-## Projects
+## Projekte
 
 {projects}  
 
 <button class="primary">
-  <a href="projects">To the projects!</a>
+  <a href="projects">Zu den Projekten!</a>
 </button>  
 
 ---
 
-## Calendar
+## Kalender
 
 {calendar}  
 
 ---
 
-## What users say  
+## Was Nutzer sagen  
 
 **- Coming soon -  **
 
