@@ -1,4 +1,4 @@
-# FactionFight <img src="img/factionfight.png" alt="FactionFight Logo" style="width:5rem">
+# FactionFight <img src="img/factionfight-transparent.png" alt="FactionFight Logo" style="width:5rem">
 
 ## About
 
