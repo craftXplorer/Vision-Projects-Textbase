@@ -1,4 +1,4 @@
-# Minecraft Insantiy
+# Minecraft Insantiy <img src="img/Minecraft-Insanity.png" alt="FactionFight Logo" style="width:5rem">
 
 ## About
 Modded SMP focussed on the Create mod
