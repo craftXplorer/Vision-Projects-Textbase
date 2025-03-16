@@ -1,4 +1,4 @@
-# Minecraft Celestial
+# Minecraft Celestial <img src="img/minecraft_celestial_logo.png" alt="Minecraft Celestial Logo" style="width:5rem">
 
 ## About
 Minecraft Celestial ist ein Survival-Projekt, in dem Spieler gemeinsam oder alleine eine Raumstation bauen und die Weiten des Minecraft-Universums erkunden. 
