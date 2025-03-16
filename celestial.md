@@ -19,4 +19,6 @@ In den Vorbereitungen
 ---
 
 ## Teilnehmen
-<button class="primary"><a href="participate?project=Minecraft+Celestial">Tritt einem Projekt bei!</a></button>
+Drücke den Button, um dich mit deinem Konto bei Minecraft Celestial anzumelden
+
+<button class="primary"><a href="participate?project=Minecraft+Celestial">Jetzt mitmachen!</a></button>
