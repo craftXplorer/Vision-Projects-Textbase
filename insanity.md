@@ -1,8 +1,6 @@
 # Minecraft Insantiy <img src="img/Insanity-Icon-Small.png" alt="FactionFight Logo" style="width:5rem">
 
 ## About
-Modded SMP focussed on the Create mod
-
 Minecraft Insanity war ein storybasierter SMP mit vielen Mods.
 
 Es war eine Gemeinschaft aus Content-Creator, Zuschauern und Spielern.
@@ -28,7 +26,7 @@ Möglicherweise gibt es in der Zukunft ein Comeback. Wenn du darin interessiert 
 ---
 
 ## Status
-Mehrfach geendet, zuletzt am 6.2.2024
+Mehrfach beendet, zuletzt am 6.2.2024
 
 ---
 
