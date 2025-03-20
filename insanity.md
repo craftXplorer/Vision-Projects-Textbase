@@ -27,10 +27,10 @@ Möglicherweise gibt es in der Zukunft ein Comeback. Wenn du darin interessiert 
 
 ---
 
-## State
+## Status
 Mehrfach geendet, zuletzt am 6.2.2024
 
 ---
 
-## Participate
+## Teilnehmen
 Zurzeit nicht verfügbar. 
