@@ -15,5 +15,5 @@ Beendet, Laufend, In den Vorbereitungen, ...
 
 ---
 
-## Participate
+## Teilnehmen
 Links zum Teilnehmen, ggf. eine Anleitung
